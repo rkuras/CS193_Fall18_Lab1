@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+# rkuras' first CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,8 +16,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- The class is fairly short
+- The teachers are friendly and good at teaching
+- This is the first class I have ever taken which is actually helpful when it comes to real-life skills and not just achademic skills (while those are important, real life skills are arguably more important)
 
 1. Numbered
 2. List
